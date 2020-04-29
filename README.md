@@ -2,7 +2,6 @@
 
 Python program that allows users to input two numbers, choose a mathematical operator, and return the results of the calculation. 
 
-Create a basic calculator in Python and submit this as a *.py file:
 Create an addition user-defined function that accepts two numbers
 Create a subtraction user-defined function that accepts two numbers
 Create a multiplication user-defined function that accepts two numbers
